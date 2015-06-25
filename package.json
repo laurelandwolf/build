@@ -1,0 +1,29 @@
+{
+  "name": "lw-build",
+  "version": "1.0.0",
+  "description": "Common build tools for Laurel and Wolf",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^1.2.1",
+    "babel-eslint": "^3.1.18",
+    "chalk": "^1.0.0",
+    "chokidar": "^1.0.3",
+    "eslint": "^0.23.0",
+    "eslint-plugin-lw": "file:lib/lint/plugins",
+    "eslint-plugin-react": "^2.5.2",
+    "fs-extra": "^0.20.1",
+    "lodash": "^3.9.3",
+    "nash": "^2.0.2",
+    "osx-notifier": "^0.2.1",
+    "recursive-readdir": "^1.2.1",
+    "timem": "^1.1.2"
+  },
+  "bin": {
+    "lw": "bin/cli.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
