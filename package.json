@@ -15,6 +15,7 @@
     "eslint-plugin-react": "^2.5.2",
     "fs-extra": "^0.20.1",
     "lodash": "^3.9.3",
+    "log-symbols": "^1.0.2",
     "nash": "^2.0.2",
     "osx-notifier": "^0.2.1",
     "recursive-readdir": "^1.2.1",
