@@ -12,7 +12,6 @@
     "chalk": "^1.0.0",
     "chokidar": "^1.0.3",
     "eslint": "^0.23.0",
-    "eslint-plugin-lw": "file:lib/lint/plugins",
     "eslint-plugin-react": "^2.5.2",
     "fs-extra": "^0.20.1",
     "lodash": "^3.9.3",

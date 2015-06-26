@@ -1,8 +1,0 @@
-{
-  "name": "eslint-plugin-lw",
-  "version": "0.0.2",
-  "description": "Laurel and Wolf Eslint plugins",
-  "main": "index.js",
-  "author": "Laurel And Wolf",
-  "license": "MIT"
-}

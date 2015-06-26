@@ -63,6 +63,7 @@
     "space-before-function-paren": [2, "always"],
     "space-in-brackets": [2, "never"],
     "space-in-parens": [2, "never"],
-    "strict": 0
+    "strict": 0,
+    "lw/function-padding": 2
   }
 }
