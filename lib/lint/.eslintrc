@@ -2,6 +2,7 @@
   "parser": "babel-eslint",
   "plugins": [
     "react",
+    "babel",
     "lw"
   ],
   "ecmaFeatures": {
@@ -25,7 +26,8 @@
     "no-alert": 0,
     "no-var": 2,
     "no-underscore-dangle": 0,
-    "object-shorthand": 2,
+    "babel/object-shorthand": 2,
+    "generator-star-spacing": [2, "after"],
     "quotes": [2, "single", "avoid-escape"],
     "react/jsx-quotes": [2, "double", "avoid-escape"],
     "react/jsx-no-undef": 2,
