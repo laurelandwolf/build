@@ -19,7 +19,7 @@
     "nash": "^2.0.2",
     "osx-notifier": "^0.2.1",
     "recursive-readdir": "^1.2.1",
-    "sane": "^1.1.3",
+    "sane": "1.1.3",
     "timem": "^1.1.2"
   },
   "bin": {
