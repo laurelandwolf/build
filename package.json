@@ -1,6 +1,6 @@
 {
   "name": "lw-build",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Common build tools for Laurel and Wolf",
   "main": "lib/index.js",
   "scripts": {
